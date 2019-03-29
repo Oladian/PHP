@@ -1,0 +1,9 @@
+Visionado el vídeo "VIDEO UML: INTRODUCCIÓN AL UML".
+Visionado el vídeo "VIDEO UML: ELEMENTOS UML".
+Visionado el vídeo "VIDEO UML: CASOS DE USO".
+Visionado el vídeo "VIDEO UML: CLASES".
+Leída presentación "PRESENTACIÓN PREZI SOBRE ARGOUML".
+Instalación de JRE, JDK y ArgoUML.
+Terminado el "Curso Online de Scrum y Metodologías ágiles" y conseguido el diploma.
+Pruebas de ArgoUML.
+Realizada evaluación inicial de PHP.
